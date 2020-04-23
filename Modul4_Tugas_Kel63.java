@@ -47,7 +47,7 @@ public class Modul4_Tugas_Kel63 {
                 gambar2();
                 break;
             default:
-                System.out.println("Tidak ada gambbar lagi");
+                System.out.println("Tidak ada gambar lagi");
                 break;
         }
     }
